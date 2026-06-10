@@ -1,4 +1,4 @@
-#Future Prepping will add a tally > here < if a .env is ever added
+#Future Prepping will add a tally > here: < if a .env is ever added during the dev process
 *.env
 
 #Java Build Files
