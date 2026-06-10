@@ -1,0 +1,11 @@
+#Future Prepping will add a tally > here < if a .env is ever added
+*.env
+
+#Java Build Files
+*.class
+
+#VS Code packages
+*.vscode
+
+#Mac Files
+*.DS_Store
